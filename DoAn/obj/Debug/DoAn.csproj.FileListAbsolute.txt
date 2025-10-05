@@ -1,0 +1,14 @@
+C:\Users\aaa\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\aaa\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\aaa\source\repos\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\aaa\source\repos\DoAn\DoAn\bin\Debug\Guna.UI2.dll
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.exe.config
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.Form2.resources
+C:\Users\aaa\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.Up2Date
