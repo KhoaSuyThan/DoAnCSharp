@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\aaa\\source\\repos\\DoAn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|c:\\users\\aaa\\source\\repos\\doan\\doan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|solutionrelative:doan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|C:\\Users\\aaa\\source\\repos\\DoAn\\doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|solutionrelative:doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -15,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|solutionrelative:doan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|C:\\Users\\aaa\\source\\repos\\DoAn\\doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|solutionrelative:doan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|c:\\users\\aaa\\source\\repos\\doan\\doan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|solutionrelative:doan\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|C:\\Users\\aaa\\source\\repos\\DoAn\\doan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{51DB2B5B-8C69-405A-BC12-34324E113658}|DoAn\\DoAn.csproj|solutionrelative:doan\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form1.cs",
-              "RelativeDocumentMoniker": "DoAn\\Form1.cs",
-              "ToolTip": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form1.cs",
-              "RelativeToolTip": "DoAn\\Form1.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDcAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T08:36:14.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form2.cs",
               "RelativeDocumentMoniker": "DoAn\\Form2.cs",
               "ToolTip": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form2.cs",
               "RelativeToolTip": "DoAn\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4NAAAAAAAAAAAhwOQMAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T08:59:04.145Z",
+              "WhenOpened": "2025-10-26T01:48:42.106Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAn\\Form1.cs",
+              "ToolTip": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form1.cs [Design]*",
+              "RelativeToolTip": "DoAn\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T03:58:52.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\App.config",
+              "RelativeDocumentMoniker": "DoAn\\App.config",
+              "ToolTip": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\App.config",
+              "RelativeToolTip": "DoAn\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-26T02:36:31.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form2.cs",
               "RelativeDocumentMoniker": "DoAn\\Form2.cs",
               "ToolTip": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form2.cs [Design]",
               "RelativeToolTip": "DoAn\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T08:50:30.051Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form1.cs",
-              "RelativeDocumentMoniker": "DoAn\\Form1.cs",
-              "ToolTip": "C:\\Users\\aaa\\source\\repos\\DoAn\\DoAn\\Form1.cs [Design]",
-              "RelativeToolTip": "DoAn\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T08:32:49.054Z",
+              "WhenOpened": "2025-10-26T01:21:10.769Z",
               "EditorCaption": " [Design]"
             }
           ]

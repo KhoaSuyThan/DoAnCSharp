@@ -63,6 +63,16 @@ namespace DoAn.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_1046544350_612x612 {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-1046544350-612x612", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pngtree_light_yellow_minimalist_background_image_257954 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-light-yellow-minimalist-background-image_257954", resourceCulture);
